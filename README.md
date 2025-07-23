@@ -2,6 +2,20 @@
 
 A Flutter-based Android application that converts NSZ files to NSP format locally on your device, designed specifically for Nintendo Switch emulation enthusiasts using Android gaming handhelds.
 
+## 📥 Download APK
+
+<div align="center">
+
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.0.4-brightgreen?style=for-the-badge&logo=android)](https://github.com/gabrielvaz/nsz-to-nsp-android/releases/download/v1.0.4/nsz-to-nsp-converter-v1.0.4.apk)
+
+**Latest Version: v1.0.4** • **Size: ~44 MB** • **Android 8.0+**
+
+[📋 View All Releases](https://github.com/gabrielvaz/nsz-to-nsp-android/releases) • [🐛 Report Issues](https://github.com/gabrielvaz/nsz-to-nsp-android/issues)
+
+</div>
+
+---
+
 ## Features
 
 - **Local Conversion**: All processing happens on your device - no internet connection required
